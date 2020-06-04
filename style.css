@@ -67,9 +67,11 @@ body {
     border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
 }
 
-/* .accordion-item--header.active + .accordion-item--body {
+/* 
+.accordion-item--header.active + .accordion-item--body {
     max-height: 1000px;
-} */
+} 
+*/
 
 @media (max-width: 767px) {
     html {
